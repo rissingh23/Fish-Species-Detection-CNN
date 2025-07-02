@@ -1,5 +1,5 @@
 # Fish-Species-Detection-CNN
-Fish species detection based on images and videos using a convolutional neural network. 
+Fish species detection based on images and videos using a convolutional neural network and transfer learning.
 
 Using https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset for dataset. 
 
