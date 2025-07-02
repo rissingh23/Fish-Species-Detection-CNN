@@ -1,0 +1,12 @@
+{
+    "gilt_head_bream": {
+      "common_name": "Gilt-head Bream",
+      "habitat": "Coastal waters of the Mediterranean Sea and eastern North Atlantic Ocean",
+      "fun_fact": "They can live up to 25 years and are prized in Mediterranean cuisine."
+    },
+    "red_sea_bream": {
+      "common_name": "Red Sea Bream",
+      "habitat": "Warm temperate waters of the western Pacific Ocean",
+      "fun_fact": "Also known as madai in Japan and often used in celebratory dishes."
+    }
+}
